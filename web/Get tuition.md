@@ -3,9 +3,8 @@
 Get tuition for each semester
 
 Method: `POST`  
-URL: `https://thongtindaotao.sgu.edu.vn/public/api/web/w-locdsthongbao`  
+URL: `https://thongtindaotao.sgu.edu.vn/api/rms/w-locdstonghophocphisv`  
 Headers:  
- - `Content-Type`: `application/json`  
  - `Authorization`: `Bearer {access_token}`
 
 Variables:  
